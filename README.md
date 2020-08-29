@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### IAM Maksim Kumundzhiev and IAM Data Scientist who currently focused on Data Engineering and Deep Learning topics as well with explicit expirience in Machine Learning.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KumundzhievMaxim)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KumundzhievMaxim&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on: 
   - SPECT Left Ventricle Segmentation [Long term][Research Paper]
