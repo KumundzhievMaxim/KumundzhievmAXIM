@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on: 
   - SPECT Left Ventricle Segmentation [Long term][Research Paper]
-  - Measuring performance of Dynamic Business Processes [Long term][Research Paper]
-  - Head-Pose annotations [Short term][Daily tasks] 
-  - Webhook deployment within AWS Lambda, AWS API Gateway, AWS IAM, AWS Cognito, AWS S3, AWS Cloudformation and Serverless [Short term][Daily tasks]
+  - Classical CHAID vs AI CHAID [Long term][Research Paper]
   
 - 🌱 I’m currently learning Computer Science in Eotvos Lorand University at Data Science Department 
 
