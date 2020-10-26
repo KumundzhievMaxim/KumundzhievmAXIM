@@ -1,7 +1,8 @@
 # Hi there :zap:
-## I'm  
-my name is Maksim Kumundzhiev and I'm Data Engineer with extensive experience in Applied Data Science, Machine Learning and Deep Learning.
+My name is Maksim Kumundzhiev and I'm Data Engineer with extensive experience in Applied Data Science, Machine Learning and Deep Learning.
+
 :space_invader: Advanced in Data Curation, Data Analysis, Data Delivering and Data Storing.
+
 :school_satchel: I’m currently learning Computer Science in Eotvos Lorand University at Data Science Department
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KumundzhievMaxim&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
