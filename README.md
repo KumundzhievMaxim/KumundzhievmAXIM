@@ -1,7 +1,7 @@
 # Hi there :zap:
 My name is Maksim Kumundzhiev and I'm Data Engineer with extensive experience in Applied Data Science, Machine Learning and Deep Learning.
 
-![Gif-Logo](https://66.media.tumblr.com/d40c6daf51b6b2b7c060b1019574aa06/tumblr_nv3ijoGcGS1qav3uso1_540.gif)
+<img align="center" src="https://66.media.tumblr.com/d40c6daf51b6b2b7c060b1019574aa06/tumblr_nv3ijoGcGS1qav3uso1_540.gif" alt="Logo Gif">
 
 :space_invader: Advanced in Data Curation, Data Analysis, Data Delivering and Data Storing.
 
