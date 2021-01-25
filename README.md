@@ -1,11 +1,9 @@
 <div class="image123">
     <div class="imgContainer">
-        <img src="https://i.pinimg.com/originals/90/1d/09/901d09f47be09180e2bc0861912b7109.gif" alt="Oaky" width="300" height="200" class="center">
-        <p>This is image 1</p>
+        <img src="https://i.pinimg.com/originals/90/1d/09/901d09f47be09180e2bc0861912b7109.gif" alt="Oaky" width="300" height="200" class="left">
     </div>
     <div class="imgContainer">
-        <img src="https://i.pinimg.com/originals/a4/8f/ad/a48fad9353198915b2e7aa798494a831.gif" alt="Oaky" width="300" height="200" class="center">
-        <p>This is image 2</p>
+        <img src="https://i.pinimg.com/originals/a4/8f/ad/a48fad9353198915b2e7aa798494a831.gif" alt="Oaky" width="300" height="200" class="right">
     </div>
 </div>
 
