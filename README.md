@@ -1,6 +1,6 @@
 # Hi there :zap:
 
-<img src="https://i.pinimg.com/originals/a4/8f/ad/a48fad9353198915b2e7aa798494a831.gif" alt="Oaky" width="300" height="300" class="center">
+<img src="https://i.pinimg.com/originals/a4/8f/ad/a48fad9353198915b2e7aa798494a831.gif" alt="Oaky" width="300" height="200" class="center">
 My name is Maksim Kumundzhiev and I'm Data Engineer with extensive experience in Applied Data Science, Machine Learning and Deep Learning.  
 
 ### Skill set
