@@ -1,4 +1,4 @@
-<p style="float: left; font-size: 5pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://i.pinimg.com/originals/a4/8f/ad/a48fad9353198915b2e7aa798494a831.gif" style="width: 100%"></p>
+<p style="float: left; font-size: 5pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://i.gifer.com/NusZ.gif" style="width: 100%"></p>
 
 
 
