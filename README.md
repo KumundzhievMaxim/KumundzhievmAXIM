@@ -1,7 +1,7 @@
 # Hi there :zap:
 ### My name is Maksim Kumundzhiev and I'm Data Engineer with extensive experience in Applied Data Science, Machine Learning and Deep Learning.
 
-<img src="https://66.media.tumblr.com/d40c6daf51b6b2b7c060b1019574aa06/tumblr_nv3ijoGcGS1qav3uso1_540.gif" alt="Oaky" width="800" height="400">
+<img src="https://www.purdue.edu/uns/images/2018/talavage-connectome.gif" alt="Oaky" width="800" height="400">
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KumundzhievMaxim&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
