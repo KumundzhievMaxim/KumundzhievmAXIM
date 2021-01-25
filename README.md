@@ -1,5 +1,5 @@
 <p style="float: left; font-size: 9pt; text-align: center; width: 20%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://i.pinimg.com/originals/90/1d/09/901d09f47be09180e2bc0861912b7109.gif" style="width: 50%"></p>
-<p style="float: left; font-size: 9pt; text-align: center; width: 20%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://i.pinimg.com/originals/a4/8f/ad/a48fad9353198915b2e7aa798494a831.gif" style="width: 50%"></p>
+<p style="float: right; font-size: 9pt; text-align: center; width: 20%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://i.pinimg.com/originals/a4/8f/ad/a48fad9353198915b2e7aa798494a831.gif" style="width: 50%"></p>
 
 
 
